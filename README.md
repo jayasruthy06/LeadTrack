@@ -19,6 +19,7 @@ LeadTrack CRM is a full-fledged customer relationship management system built us
 - **Cloud**: Cloudinary (for file storage)
 - **Payment**: Stripe API (sandbox mode)
 - **PDF Generation**: pdfkit, streamifier
+- **Deployed On**: Vercel (frontend), Render (backend)
 
 ## 📦 Project Structure
 ```bash
@@ -28,3 +29,9 @@ LeadTrack_CRM/
 ├── .env             # Environment variables
 └── README.md        # Project documentation
 ```
+
+## 🌐 Deployed Project
+**Link**: https://lead-track-crm.vercel.app (may be slow on initial start due to Render's free hosting)
+**Try it out, and let me know your feedback!**
+
+**🛡️ The full source code is kept private due to data sensitivity.**
