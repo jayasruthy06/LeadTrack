@@ -9,6 +9,7 @@ LeadTrack CRM is a full-fledged customer relationship management system built us
 - 🧾 Automated invoice generation with PDF export and Stripe payment integration
 - 📅 Meetings management via Zoom/Google Meet links
 - 🔒 Secure authentication and access control
+- 🗒️ Action logs for audit
 - ☁️ Cloudinary integration for file and PDF storage
 
 ## 📂 Tech Stack
@@ -26,12 +27,11 @@ LeadTrack CRM is a full-fledged customer relationship management system built us
 LeadTrack_CRM/
 ├── frontend/          # React frontend
 ├── backend/         # Express API server
-├── .env             # Environment variables
 └── README.md        # Project documentation
 ```
 
 ## 🌐 Deployed Project
-**Link**: https://lead-track-crm.vercel.app (may be slow on initial start due to Render's free hosting)
-**Try it out, and let me know your feedback!**
+- **Link**: https://lead-track-crm.vercel.app (may be slow on initial start due to Render's free hosting)
+- **Try it out, and let me know your feedback!**
 
 **🛡️ The full source code is kept private due to data sensitivity.**
