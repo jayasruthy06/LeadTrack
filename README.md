@@ -8,6 +8,7 @@ LeadTrack CRM is a full-fledged customer relationship management system built us
 - 📊 Visual Kanban board for deal tracking
 - 🧾 Automated invoice generation with PDF export and Stripe payment integration
 - 📅 Meetings management via Zoom/Google Meet links
+- 🔔 Send one way reminders to customers
 - 🔒 Secure authentication and access control
 - 🗒️ Action logs for audit
 - ☁️ Cloudinary integration for file and PDF storage
