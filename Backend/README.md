@@ -34,7 +34,7 @@ backend/
 Set up a `.env` file in the root of `backend/` with the following:
 
 ```env
-PORT=5000
+PORT=your port
 JWT_SECRET=your-long-jwt-secret-key
 MONGO_URI=your-mongodb-uri
 NODE_ENV=development
