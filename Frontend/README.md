@@ -2,8 +2,6 @@
 
 This is the frontend application for **LeadTrack CRM**, a role-based customer relationship management platform. Built using **React + Vite**, the app delivers an intuitive user experience with powerful UI features, secure authentication, and role-specific access.
 
----
-
 ## 🛠️ Tech Stack
 
 - **React + Vite**
@@ -15,16 +13,11 @@ This is the frontend application for **LeadTrack CRM**, a role-based customer re
 - **react-phone-input-2** – international phone number input
 - **libphonenumber-js** – phone number formatting
 
----
-
 ## 🔐 Authentication & Routing
 
 - **Auth Context** using React's Context API manages user session and user details globally.
 - **ProtectedRoute** component is used to guard routes that require authentication.
 - **Landing Page** is the default public route. After successful login, users are redirected to their respective role-based dashboards:
-
-
----
 
 ## 📊 Features
 
@@ -34,8 +27,6 @@ This is the frontend application for **LeadTrack CRM**, a role-based customer re
 - **Cloudinary Integration** : Uploading and viewing invoice PDFs
 - **Form Validations** applied across all forms
 - **International Phone Number Input**: Automatically detects country code. Formats using `libphonenumber-js`
-
----
 
 ## 🌐 Environment Variables
 
