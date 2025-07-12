@@ -35,4 +35,4 @@ LeadTrack_CRM/
 - **Link**: https://lead-track-crm.vercel.app (may be slow on initial start due to Render's free hosting)
 - **Try it out, and let me know your feedback!**
 
-**🛡️ The full source code is kept private due to data sensitivity.**
+**🛡️ The full source code is kept private for academic reasons.**
