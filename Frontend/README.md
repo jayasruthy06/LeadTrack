@@ -37,7 +37,7 @@ This is the frontend application for **LeadTrack CRM**, a role-based customer re
 Create a `.env` file in the root:
 
 ```env
-VITE_API_BASE_URL=http://localhost:5000/api
+VITE_API_BASE_URL=your url
 ```
 
 Create your files inside src folder and store your images in assets folder.
